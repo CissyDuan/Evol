@@ -1,7 +1,7 @@
 # Evol project
 code for intertextuality detection and inference method in the article: Disentangling the cultural evolution of ancient China: a digital humanities perspective
 
-online platform: http://evolution.pkudh.xyz/
+online platform: http://evolution.pkudh.xyz/ （Due to gfw, vpn access is required outside of China.）
 
 finetuning the model: python3 Main.py
 
