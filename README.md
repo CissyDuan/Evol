@@ -1,4 +1,4 @@
-# Evol
+# Evol project
 code for Disentangling the cultural evolution of ancient China: a digital humanities perspective
 
 online platform: http://evolution.pkudh.xyz/
