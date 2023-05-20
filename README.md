@@ -1,5 +1,5 @@
 # Evol project
-code for Disentangling the cultural evolution of ancient China: a digital humanities perspective
+code for intertextuality detection and inference method in the article: Disentangling the cultural evolution of ancient China: a digital humanities perspective
 
 online platform: http://evolution.pkudh.xyz/
 
