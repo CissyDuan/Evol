@@ -1,0 +1,14 @@
+data: './data/base.json'
+batch_size: 32
+log: './log/'
+epoch: 10
+optim: 'adam'
+learning_rate: 0.000001
+max_grad_norm: 8
+learning_rate_decay: 0.5
+schedule: True
+start_decay_at: 0
+dropout: 0.1
+num_head: 8
+max_length: 52
+alpha: 0.5
